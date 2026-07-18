@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "@swc/core": "1.10.12",
-    "adm-zip": "^0.5.14",
+    "adm-zip": "^0.6.0",
     "aws-cdk": "2.1116.0",
     "fs-extra": "11.1.0"
   },
